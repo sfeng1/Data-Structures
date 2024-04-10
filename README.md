@@ -25,3 +25,6 @@ Functionality created from class methods:
 * Evaluate if two bags are equal
 * Iterators for the bag
 
+## Usage Instructions
+Download all three files into a local directory. 
+Open files directly in an IDE (such as Pycharm) to test functionality or import into a new Python file to test separately. 
